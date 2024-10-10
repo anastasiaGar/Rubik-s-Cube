@@ -1,6 +1,6 @@
 # Rubik's Cube Solver with A* Algorithm
 
-Overview
+
 This project implements a Rubik's Cube solver using the A search algorithm* combined with two heuristic functions: Manhattan Distance and Corner-Edge Sum Max. The system simulates the cube’s movements and provides both the scrambled and solved states. It also prints intermediate steps during the solution process.
 
 Features
